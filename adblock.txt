@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-03 17:50:38
+# Generated on: 2025-12-03 18:21:12
 # Generated AdBlock rules
-# Total entries: 173994
+# Total entries: 174027
 
 0.myikas.com
 0.nybk.ru
@@ -19694,6 +19694,7 @@ auul8.dup-1-ic-4-ermaph.ru
 auvaugushik.net
 auvto.venusetfleur.com
 auwdff.dyfashion.ro
+auwhaumtoageeg.com
 aux.lansator.ro
 auxml.com
 auxmoney-partnerprogramm.de
@@ -22621,6 +22622,7 @@ bgjesr.topvyrobky.sk
 bgjnajhwfqx.xyz
 bgk.khdsaghdop.org
 bgkec.global
+bgkjn.tygpzq.bid
 bglqi.sbs
 bgmuvv.softbankselection.jp
 bgn.gg
@@ -30180,6 +30182,7 @@ clearedlapcontrast.com
 clearitem.pro
 clearonclick.com
 clears.syc0aq8uy1.online
+cleartag.run
 clearwatch.tv
 cleavebullydevaluation.com
 clebez.paprika-shopping.be
@@ -30444,6 +30447,7 @@ clickpapa.com
 clickpathmedia.com
 clickperks.info
 clickpoint.com
+clickpro.live
 clickprotector.com
 clickprotects.com
 clickpunch.icu
@@ -42706,6 +42710,7 @@ dntdnt.com
 dntfgskgcxnl.com
 dnulgioljaump.website
 dnurxagcqddad.website
+dnus40re.xyz
 dnutc.modularclosets.com
 dnvogsqirpcfq.space
 dnwmeaivtrhfp.site
@@ -51827,6 +51832,7 @@ flxr.myplan-c.com
 fly-ads.net
 fly.caljetelite.com
 flyads1.com
+flyballjazzer.rest
 flybirdexpbd.com
 flybmpc.com
 flyerrepentembrace.com
@@ -55371,6 +55377,7 @@ gigicinjinsyf.website
 gigkarma.com
 gigptruetlop.com
 gigsmanhowls.top
+gigsterbeclipspiny.cfd
 gigtoy.icu
 giguenestle.com
 giiao.hangtietkiem.com
@@ -55476,6 +55483,7 @@ gitam.1host.co.il
 gitam.co.il
 gitcrumbs.com
 gitdownloadmbz.cfd
+githcooner.qpon
 github-scanner.com
 github.gpuzelenograd.cloudns.be
 githuhey.com
@@ -60867,6 +60875,7 @@ hamouspritch.com
 hamster.consentkit.io
 hamster.darstellendekuenste.de
 hamsterspot.com
+hamsterwailseveral.com
 hamtegriksucoo.net
 hamwo.cloud
 hamzahchaunt.cyou
@@ -63376,6 +63385,7 @@ hpy-shop.top
 hpy88yu.com
 hpyjmp.com
 hpyrdr.com
+hpztfyfrnudnd.space
 hpzvitkflstxx.website
 hq.handiquilter.com
 hq.m33h.ru
@@ -64203,6 +64213,7 @@ hylmxing.com
 hyloistramploreulytin.cfd
 hylplj.icu
 hymenalmatinee.help
+hymenicjobbing.qpon
 hymhui692.top
 hymmnexxf.net
 hymnistdedans.cyou
@@ -65011,6 +65022,7 @@ ifdnzact.com
 ifdtm.maglite.com
 ifdvlh.cn
 ifej.cn
+ifejrspiegttfym.com
 ifethbrzb.com
 ifewo.xyz
 iffalh.y-aoyama.jp
@@ -66241,6 +66253,7 @@ indefinitelytonsil.com
 indefinitemantle.com
 indegroeh.com
 indelible-diamond.com
+indelibleeconomy.pro
 indelicateexcept.com
 indelicateglacier.com
 indelicatepokedoes.com
@@ -69390,6 +69403,7 @@ jfook.bokksumarket.com
 jfp6.destinia.de
 jfpo.cn
 jfrrnf.icu
+jfrtopxglnetf.online
 jfsdiwmnbsk009.top
 jfstv.spode.com
 jfverzoeowotc.store
@@ -78619,6 +78633,7 @@ lptrck.com
 lpuacqxrawpu.com
 lpulp.livom.ch
 lpvgnb.mingwangknits.com
+lpwxtzhqeodnb.website
 lpx.qantas.com
 lpxmall.com
 lpxwtr7f3umqhjb9.cfd
@@ -96430,6 +96445,7 @@ p3-tt.byteimg.com
 p3.95tbm.ru
 p3.zbjimg.com
 p30rank.ir
+p3229hw7lun6ier47ce6hyfz46c96o1eonvg9j.rest
 p35h.space
 p38md1r.ru
 p3kqa.q3lo.online
@@ -98219,6 +98235,7 @@ peeglathoanool.net
 peejoopsajou.net
 peekaiptekaib.net
 peekcragassisted.com
+peekedsharky.cfd
 peeloffsex.com
 peeloffsexyy.com
 peemoagevaijug.net
@@ -100954,6 +100971,7 @@ pqlcpm.kindoh.co.kr
 pqlmae.lamaisonduchocolat.co.jp
 pqlmfjwyu.com
 pqlrfrtotmzpt.website
+pqlrmhckia.com
 pqlrthvyxubbf.site
 pqmbxd.betersport.nl
 pqmqvnxwijmol.space
@@ -101076,6 +101094,7 @@ prebid.loopmertb.com
 prebid.org
 prebid.scope3.com
 prebidwrapper.com
+precariouscowardgreatly.com
 precastoocytes.qpon
 precautionnoughtsam.com
 precautionprommajority.com
@@ -102841,6 +102860,7 @@ pwn9v.chenmujiang.com.cn
 pwnyvbfsuetef.site
 pwnz.org
 pwr-ads.com
+pwrbqcxpbcr.com
 pwrgrowthapi.com
 pwrlkyotm.com
 pwrmar.2-berega.ru
@@ -104883,6 +104903,7 @@ quizmastersagaciousernie.com
 quizzedtoot.help
 quizzical-cow.com
 quizzical-lederberg.196-251-72-149.plesk.page
+quizzicalinsurance.com
 quizzicalpartner.com
 quizzicaltackle.pro
 quizzicalzephyr.com
@@ -111341,6 +111362,7 @@ saishook.com
 saitef.cn
 saizih.com
 sajeb.ownabode.com
+sajfqheumdvkgqt.com
 sajldwpvqcikz.website
 sak.ra6n.ru
 sak.userreport.com
@@ -116967,6 +116989,7 @@ slapswingthrough.com
 slaqandsan.xyz
 slash.gdyl-2.ru
 slashersnugly.cfd
+slashestatinekkeyster.cfd
 slashstar.net
 slatehystericaltaunt.com
 slatwall-displays.gogopanels.com
@@ -121034,6 +121057,7 @@ solarviolet.ru
 solax9.sun5t0ne.ru
 solazone.help
 solddewrot.cyou
+soldierhooch.shop
 soldierindefinitely.com
 soldierreproduceadmiration.com
 sole.bkosmetik.com
@@ -127555,6 +127579,7 @@ stingyspoon.com
 stinkconstituent.com
 stinklistedtobacco.com
 stinkyloadeddoctor.com
+stintgreece.rest
 stionicgeodist.com
 stioppdibo.com
 stippleit.com
@@ -141297,6 +141322,7 @@ twittad.com
 twitter.sx
 twitterchest.com
 twitterfollowers.site
+twitveil.com
 twiz.wizaly.fr
 twjobmachine.xyz
 twjobq.sixt.co.uk
@@ -145017,6 +145043,7 @@ v2cigs.com
 v2k7.ha0m.online
 v2k7m.67tf.online
 v2k9.p0k61h.ru
+v2kb8uikm1e598b4trjvlir.cfd
 v2l.be3q.ru
 v2mi.gdt.qq.com
 v2n.5y4a.ru
@@ -148136,6 +148163,7 @@ vrwbjthlphyhkud.net
 vrxhpgjiuauqc.website
 vrxl3.primurib1er.ru
 vry9.destinia.com
+vryjackjkxpov.online
 vryzapwc.com
 vrzmfy.fool.com
 vrzqat.zegarek.net
@@ -149474,6 +149502,7 @@ wazirx-defi.club
 wazirx-defi.pro
 wazveqv.xyz
 wazzeyrykjvw.top
+wazzeyrykllj.top
 wb-analytics.onecruiter.com
 wba1.g4eyhhar1eq.ru
 wbaetwsafkqlw.store
@@ -150377,6 +150406,7 @@ websocket.sobhtazeh.news
 websocket.varandaz.com
 webspectator.com
 webspiration.de
+webstabilityhugo.com
 webstag.kplus.vn
 webstat.4music.com
 webstat.channel4.com
@@ -150909,6 +150939,7 @@ whbvqmwjvahuw.store
 whcjlrvfux.com
 whclksvlbotno.website
 whcmij.altitude-sports.com
+whcvljzpppddr.website
 whe0nqk.icu
 wheceelt.net
 whechynetho.com
@@ -150988,6 +151019,7 @@ whimsicalzenith.com
 whinedeity.com
 whinemalnutrition.com
 whippedbetraygranddaughter.com
+whippedredsnowman.com
 whippedsines.help
 whippet.ianglover.com
 whippet.madewithspark.com
@@ -169613,6 +169645,7 @@ xvuslink.com
 xvvfpsmp.icu
 xvvvhu.ullapopken.ch
 xvxboavgkjuex.website
+xvzfiyuzilyyb.site
 xvzgfyqucqrbw.space
 xw.fj-4-i-6.ru
 xw.kerryhe.buzz
