@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-03 21:56:18
+# Generated on: 2025-12-03 22:20:12
 # Generated AdBlock rules
-# Total entries: 174147
+# Total entries: 174163
 
 0.myikas.com
 0.nybk.ru
@@ -11797,6 +11797,7 @@ ajlez.broadwayinhollywood.com
 ajljei.ace.jp
 ajlog.dardanos.com
 ajlpd.miko.ai
+ajmivgvmaclye.online
 ajmixbpcqolf.com
 ajmtefoi.com
 ajo1gdc.ajo1gdc.adobevlab.com
@@ -42664,6 +42665,7 @@ dmxvip.com
 dmym.aixyy.com
 dmyrza.com
 dmytamepgcifk.store
+dmytmtarhxret.online
 dmz3nd5oywtsw.cloudfront.net
 dmzbhqwcgbeop.online
 dmzjmp.com
@@ -45489,6 +45491,7 @@ ecqobhgtpcpez.site
 ecqzlunarvyfe.website
 ecreify.com
 ecretaboutt.org
+ecrhbanqi.com
 ecrilwzjkwqul.space
 ecriqadg.com
 ecrvysupbqcnb.top
@@ -46825,6 +46828,7 @@ emunicatetheben.org
 emunicatethebenefit.com
 emvcujgimb.xyz
 emway.ir
+emxcmdpce.com
 emxdgt.com
 emydeexcl.help
 emywsmsdyqzne.site
@@ -47313,6 +47317,7 @@ eociugytvzhad.website
 eodda.womanwithin.com
 eoejzyqfdmidn.space
 eoflgybccinwq.website
+eofqgwtzojvks.space
 eofufortchris.org
 eofwlnyaxwfqt.global
 eogflx.bodyluv.kr
@@ -54765,6 +54770,7 @@ geminiup-vrfs.top
 geminived.com
 gemius.pl
 gemlikevarios.com
+gemmedenvoys.qpon
 gemmelirving.cyou
 gemorganic.com
 gemtrackers.com
@@ -57569,6 +57575,7 @@ groamsal.net
 grocerycrew.com
 grocerydog.com
 groceryshootworld.com
+grockartouz.com
 grocrypto.cc
 groggedrotl.com
 groinenamel.com
@@ -62420,6 +62427,7 @@ hjrzuojyxuewm.global
 hjssinfmxyioe.space
 hjtedf.xyz
 hjtfbaxhidhv.xyz
+hjuapkyglczhp.site
 hjvjnpyhfzdws.website
 hjvkhvvlsb.com
 hjvprx.top
@@ -65346,6 +65354,7 @@ iihwlyfftmcyb.online
 iiiconstruction.net
 iiiqdhbkppkxw.space
 iiistock.com
+iijwomwwwfhrz.online
 iijyrnrxflbvn.store
 iijyzn.atlas.ind.br
 iikrmw.xyz
@@ -87476,6 +87485,7 @@ moplahgetspa.cfd
 mopn52ltngttyznzokii5gyo7grczn99.cfd
 mopnnetjyvlul.space
 mopokechoaty.shop
+mopokesholly.rest
 mopsfqslnyuve.space
 mopub-win-us-east.bksn.se
 mopvr.theadventurechallenge.com
@@ -87959,6 +87969,7 @@ mryshl.com
 mrytze.navi-discount.fr
 mryzzcpytz.com
 mrzkmrvqtapqc.store
+mrzncayrlbjop.website
 ms-acweb.clog3.net
 ms-ads-monitoring-events.presage.io
 ms-finsan.com
@@ -95434,6 +95445,7 @@ originallyrabbleritual.com
 originatecrane.com
 originblocks.com
 origincracknerves.com
+originsaerosat.cyou
 origintube.com
 origunix.com
 orillonenplane.click
@@ -99239,6 +99251,7 @@ pigeoon.com
 piggiervotress.com
 piggyquarterbackascension.com
 pighoumtaides.net
+pightelnumida.cfd
 pigment-adv.co.il
 pigmentpaper.com
 pignonalinota.cyou
@@ -106546,6 +106559,7 @@ reatwithdifyferuk.org
 reaujwzwzkdih.store
 reauksoffyrikm.com
 reauthenticator.com
+reaverlunier.cfd
 reavoidfeif.cyou
 reayksmmiqdmv.site
 reayukqihzqbd.site
@@ -115430,6 +115444,7 @@ sheoil.newyorkandcompany.com
 shepeekr.net
 shephazigry.com
 sherdairing.help
+shereefbulkage.click
 sherifayoop.help
 sheriffshruglow.com
 sherlock-events-sampler.ebay.com
@@ -150965,6 +150980,7 @@ wgexsktozbmrx.online
 wgflkd.gpasplus.com
 wggiud.giordanovini.it
 wghaqpnupaxmj.space
+wghfllccxhpnf.com
 wghoubdaxpsik.site
 wgmenxpvnxnbs.space
 wgn-tradex.com
