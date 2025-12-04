@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-04 17:51:05
+# Generated on: 2025-12-04 18:21:30
 # Generated AdBlock rules
-# Total entries: 174412
+# Total entries: 174434
 
 0.myikas.com
 0.nybk.ru
@@ -3720,6 +3720,7 @@
 8v.njur.ru
 8v.u-v9.ru
 8v08mjri7.com
+8v21z8kly1z4h514u2qp.cfd
 8vpz.r0ckveil.ru
 8vtqw0551lo45wwtro.xyz
 8vwxqg.tapin.gg
@@ -3733,6 +3734,7 @@
 8x4.aclz-9.ru
 8x5vviy4r2.com
 8xly.cn
+8xv8zhuup23fvu6r.rest
 8y.b2ra.ru
 8y.kqag-6.ru
 8y3j.cn
@@ -11513,6 +11515,7 @@ aigams-in.com
 aigeersoagay.net
 aigfednd.icu
 aighauboptid.net
+aigkfxmws.com
 aigrefcp.shop
 aiharsoreersu.net
 aihxcwfcbd.com
@@ -24994,6 +24997,7 @@ bqdisnocj.com
 bqdpbmtvmkmov.site
 bqdzvl.xyz
 bqebitnqgj4hgh1h.cfd
+bqewmkaidecmh.website
 bqfdp.stringsandsol.com
 bqfsnojw.com
 bqgab.rainbowshops.com
@@ -36982,6 +36986,7 @@ dangongshijie.com
 danicirvr.com
 danictesta.cfd
 danilidi.ru
+dankbeetle.qpon
 dankestmowburn.com
 danksvgpkxvmh.online
 danseurdindled.help
@@ -42117,6 +42122,7 @@ discernadornmentmaster.com
 discernjournal.com
 discerpsaying.cyou
 dischargepermit.com
+disciplecuriouslydigging.com
 disciplinaryconstitute.com
 disciplinarytreasurertyran.com
 disciplineebony.com
@@ -42164,6 +42170,7 @@ discriminationseizebananas.com
 discusscompetencecallous.com
 discussedinterdependent.com
 discussingnobody.com
+disdainevaluation.com
 disdainplayedbluster.com
 disen-cex.com
 disfiguredcomment.com
@@ -42232,6 +42239,7 @@ displaymarketplace.com
 displaynetworkcontent.com
 displaynetworkprofit.com
 displayvertising.com
+displeasuredejection.com
 disploot.com
 disposedliquor.com
 disproportionsocket.com
@@ -44091,6 +44099,7 @@ dtssrv.com
 dtsvztimqeyfl.world
 dtswghsbvpbzu.website
 dtsxn.cn
+dttfvtudektcj.space
 dtths.cn
 dttin.inhhair.com
 dttrk.com
@@ -46072,6 +46081,7 @@ egrent.cn
 egret.chankaryik.com
 egret.hairproject.ch
 egret.legislative.tech
+egrldstkdlmme.site
 egswvw.hanrousa.com
 egsxdp.cn
 egt091102205euc.click
@@ -46789,6 +46799,7 @@ emfhxsmebkthh.website
 emfokh.discountlens.de
 emgipause.com
 emgpausef3.com
+emhdaflhdjcdf.site
 emhmopnxdcjwd.site
 emicalcoveningspon.org
 emigresdolci.cyou
@@ -52143,6 +52154,7 @@ fodderpracticable.com
 fodh.cn
 fodhv.thh-org.nl
 fodsoack.com
+foehndipala.rest
 foemengasper.cfd
 foerpo.com
 foflf.com
@@ -57598,6 +57610,7 @@ griefcube.cc
 grievedvicerecord.com
 grievouslydowntowngroundless.com
 griftswhereas.cfd
+grignairgoux.net
 griinqddauwbc.website
 grikevoltes.cyou
 grikom.info
@@ -77702,6 +77715,7 @@ lockersrelais2025.com
 locketsauce.com
 lockianquota.top
 lockoophoossy.net
+lockpinoctuor.shop
 lockupaccede.com
 lockuplookup.com
 lockview.cn
@@ -104347,6 +104361,7 @@ qltag.ariat.com
 qltnuvieimllz.website
 qlvftg.officeiten.jp
 qlvxcj.masongarments.com
+qlyfefacjijda.site
 qlymjkshghifu.space
 qm.j-0-tchamber.ru
 qm.kokq.ru
@@ -104409,6 +104424,7 @@ qmgybpccnjfuh.site
 qmgzkb.dedoles.sk
 qmhwtedcmpq.com
 qmiiln.tower.jp
+qmiupoghvjldr.online
 qmiwfgxfouwpc.net
 qmjjfwxgmsovj.site
 qmjzqncmzmei.com
@@ -117174,6 +117190,7 @@ skibobsmyelon.rest
 skiddootsine.qpon
 skidfqh.xyz
 skidpaneroteme.rest
+skierjollyobsolete.com
 skifowage.qpon
 skilfulsaturatematters.com
 skill.officetechskill.com
@@ -128145,6 +128162,7 @@ stpe.joaopaulomendes.com.br
 stpgtm.9d.bet.br
 stpio.paskutineakimirka.lt
 stpmgo.com
+stpoutpersonally.com
 stpsacola.cacoelhopersonalizados.com.br
 stpserver.bimachine.com.br
 stptrc.crescon.cz
@@ -133398,6 +133416,7 @@ thebrainybulb.com
 thecarconnections.com
 thecatmachine.com
 thechapnganhang-24h.com
+theciavitreal.click
 thecitydating.com
 theclickers.net
 thecmaixoupis.net
@@ -140384,6 +140403,7 @@ trout.travelmassive.com
 troutpeskynest.com
 troutshyp.com
 trovo-tag.com
+trowedarango.click
 troweltolter.click
 troybaffing.cyou
 trozjeefaehhx.site
@@ -148509,6 +148529,7 @@ vrskf.clockcanvas.com
 vrslcvpctrwju.space
 vrsri.widefitshoes.co.uk
 vrstage.com
+vrstnadgljwiy.space
 vrtzads.com
 vru.xapomyo.ru
 vrukwwkeszzfg.space
@@ -152021,6 +152042,7 @@ wkkug.vcbnw.de
 wkmorvzawqobv.top
 wkndiu.profi.ru
 wknhhzkutuxbg.site
+wkoeoarkqqyav.top
 wkoeoarkqqywr.top
 wkoiubcvaimnn.store
 wkptzopfmmezc.space
