@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-04 09:19:28
+# Generated on: 2025-12-04 10:57:34
 # Generated AdBlock rules
-# Total entries: 174331
+# Total entries: 174356
 
 0.myikas.com
 0.nybk.ru
@@ -25525,6 +25525,7 @@ bsp.sasdc.pandora.xiaomi.com
 bspiu.heatwavevisual.com
 bsptz.shopthemint.com
 bsqbgspa.com
+bsrkglahwmnyp.online
 bsrv.qq.com
 bss.pandora.xiaomi.com
 bssaly.com
@@ -41337,6 +41338,7 @@ dfxaqkcanjrnqm.com
 dfxghq.online
 dfxn28v1rrap2.cloudfront.net
 dfxwdc.com
+dfycwmrofqyeh.website
 dfypinknckctz.website
 dfzq892.net
 dfzq992.net
@@ -41967,6 +41969,7 @@ dilagatha.life
 diligentcloset.com
 diligentcost.com
 diligentevening.com
+dillsambuk.cyou
 dilluedioxid.help
 dilmcrybf.com
 dilowhang.com
@@ -42030,6 +42033,7 @@ dipperflightrecommend.com
 dippergeologyprescribe.com
 dippierblote.cfd
 dippingearlier.com
+dipsorebs.qpon
 dipsotarraba.qpon
 diqftdf1fp8u.cloudfront.net
 dir.xb4e7.ru
@@ -46283,6 +46287,7 @@ ekdvtndl.com
 ekejmcdmuqvxv.space
 ekekpmucahnti.site
 ekerududeyuqb.space
+ekexrskdlybio.website
 ekf4jlvowbb5gi.rest
 ekggp.rmsbeauty.com
 ekgloczbsblg.com
@@ -47527,6 +47532,7 @@ eqlidke.cn
 eqlzbrictopyi.space
 eqmrfnyrrf.com
 eqmx04n5s0.ru
+eqnpqrodsmaxw.space
 eqothv.degrenne.fr
 eqpegdwlqzjct.online
 eqpmzcorwgnda.store
@@ -49995,6 +50001,7 @@ fathomseo.com
 fatiguemataspiration.com
 fatlossremedies.com
 fatt188.com
+fattenspopulum.com
 faucaitoasha.net
 faucetfoot.com
 faucetsuperficialalternative.com
@@ -53021,6 +53028,7 @@ frpefhquywmje.store
 frpns.com
 frqhauyuorevw.website
 frqjv.cannas.net
+frqwtahtg.com
 frrhdl.xyz
 frrne.guess.com
 frs2c.com
@@ -55743,6 +55751,7 @@ gl1nty.brightlake.ru
 gl4ut.se1fish5tupid.ru
 gla.niwunae.ru
 gla63a4l.de
+glacier32.com
 glacierwaist.com
 glacifyheild.life
 glackoaneels.net
@@ -65060,6 +65069,7 @@ idylsrebank.com
 idynbff.cn
 idyurlio.top
 idzqqlrm.com
+idztaseejsxkx.space
 ie-business.vodafone.com
 ie-go.experian.com
 ie7.nq8e9.ru
@@ -65119,6 +65129,7 @@ iexyuxiwangyuxiboy.com
 ieyipznx.art
 ieytglsanjfbb.online
 ieyzrxtaxfqpc.website
+ieyzvpelpbnsp.space
 iezxmddndn.com
 if.9f4s4.ru
 if.boku-0.ru
@@ -78537,6 +78548,7 @@ lottevn999.com
 lottevn9999.com
 lottiesipers.cyou
 lottingdeters.com
+lottingumiacsmoneses.cfd
 lotttemart.store
 lotuslo.com
 lotuslolot.com
@@ -87110,6 +87122,7 @@ mole.getfamealy.com
 mole.gostartupco.com
 molebjeivsqwq.online
 moleconcern.com
+molesthyrst.cyou
 moleya.click
 molikrebaumt.xyz
 mollified.top
@@ -87286,6 +87299,7 @@ mon32-normal-sg.capcutapi.com
 mon32-normal-useast1a.tiktokv.com
 mon32-normal.tiktokv.com
 monacanmudcat.com
+monachahitcher.click
 monacobeatles.com
 monacocursed.cyou
 monadplug.com
@@ -99534,6 +99548,7 @@ piranha.minnmyatsoe.com
 piratedstoory.qpon
 piratepc.net
 piratespc.net
+pirayasbonasus.help
 pirnn.hibobbie.com
 pirnxbdjowuoi.online
 pirogfatcake.rest
@@ -100401,6 +100416,7 @@ pmp.marketokqc.com
 pmp.marketvbix.com
 pmpbzjp.everydaydose.com
 pmpvkncwwmlpd.site
+pmqhelkean.com
 pmqko.coogi.com
 pmrmrddlmmexi.online
 pmrqyiifvqysm.website
@@ -101013,6 +101029,7 @@ poureddecree.com
 pouredtrunk.com
 pourmajeurs.com
 poursbakalai.com
+poustikajucet.net
 pouthithoostaky.net
 pouy99uo.com
 povtbi.automovilesalhambra.es
@@ -104745,6 +104762,7 @@ qsoc.cn
 qsotxesmqdsdr.space
 qspylmhnisdrq.space
 qsqbpoqaotdqxf.com
+qsquilellhr.com
 qsrdqwujtvxcf.vip
 qsrvzbuhumwow.website
 qssjr.farmrio.com
@@ -105366,6 +105384,7 @@ qybnxoylbgukf.website
 qycvrqxbxgltbh.com
 qyczmtalenlnc.store
 qydglzrnpltna.website
+qyel.cn
 qygnlhhxbm.xyz
 qygpcxfqqvfhr.online
 qygxrh.vandykes.com
@@ -109106,6 +109125,7 @@ rpvhxowckitodm.net
 rpvqhicca.com
 rpxjlfxnegnlz.website
 rpxorephfxdvm.site
+rpyoasspbcjmr.site
 rpyor0k.xyz
 rpyztjadsbonh.store
 rq.fo1od.ru
@@ -111664,6 +111684,7 @@ salmoraaexchange.com
 salmoraexchange.com
 salondevita.com
 salonmarketing.ca
+salpianjeershalloth.cyou
 salrnflgyvntw.website
 salsacartel.com
 salseprudely.com
@@ -116570,6 +116591,7 @@ sidjgh.monamenagementjardin.fr
 sieep4.res4ev7oy1.ru
 siefy.tlessbit.com
 siegelpigeons.com
+siegestourie.com
 sierrakermit.com
 sierrakonradreorganize.com
 sierratr.com
@@ -120994,6 +121016,7 @@ sneezecovers.com
 sneezedeplorebackache.com
 sneezegridtasting.com
 snehkjlheanqj.website
+snellswrible.cyou
 snfcoin.com
 snfcoinft.com
 sngmta.qq.com
@@ -129569,6 +129592,7 @@ swornlaughruined.com
 swottedplaidie.com
 swqmuo.icu
 swraf.polurwqy.com
+swrcvkrqwcx.com
 swskkgfyhcldxe.net
 swtagnfimnhdt.website
 swungenkotylos.help
@@ -171557,6 +171581,7 @@ yq2z.fluxcrate.ru
 yq5rn.jsanrhs.com
 yq9g.diab4uette.ru
 yqbz2.xyz
+yqeshhkcliqgh.website
 yqesygul.com
 yqfbofrwqqukn.online
 yqg.jobui.com
