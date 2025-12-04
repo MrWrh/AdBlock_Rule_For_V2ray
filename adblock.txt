@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-04 21:56:23
+# Generated on: 2025-12-04 22:20:45
 # Generated AdBlock rules
-# Total entries: 174472
+# Total entries: 174490
 
 0.myikas.com
 0.nybk.ru
@@ -680,6 +680,7 @@
 17oemm.com
 17play275.com
 17s.dk9a6.ru
+17tcoprj2fbxilqtym4.rest
 17u.cn
 18.f0rce.ru
 18.mi9q.ru
@@ -14830,6 +14831,7 @@ aos01080ss.xyz
 aoscjhusngpeg.online
 aosmith.advancedtech.com
 aougwyxo.com
+aouldurenol.cfd
 aoulpo.puccini.pl
 aovk.cn
 aowjaqfbeethq.online
@@ -22341,6 +22343,7 @@ bernankeyv.com
 bernooemerges.qpon
 beroeform.qpon
 beroll.ru
+berretoakums.qpon
 berriesstring.com
 berry.strathberry.com
 berryhillfarmgwent.com
@@ -50692,6 +50695,7 @@ ffgdfuuh.com
 ffgpol.com
 ffhkdfppqkezw.website
 ffidg.leben-paris.com
+ffihniqnwivzm.online
 ffilf.ikonick.com
 ffjevt.icu
 ffjrpdfduteic.website
@@ -57304,6 +57308,7 @@ gqfoi.roewellness.com
 gqgqdkfcylzqz.store
 gqgvzbgm.carterbay.com
 gqhlt.lineutm.com
+gqhnmdbllqkdy.online
 gqihdorufksiq.online
 gqiikkuqzsxrt.store
 gqjppj.rentcafe.com
@@ -57348,6 +57353,7 @@ gracious-kepler.196-251-72-149.plesk.page
 gracious-lamarr.196-251-72-149.plesk.page
 gracious-northcutt.196-251-72-149.plesk.page
 gracious-parent.pro
+gracious-size.pro
 gracioushaircut.com
 graciousprofit.pro
 graciousunique.com
@@ -61324,6 +61330,7 @@ hautoust.com
 hauufhgezl.com
 hauwoopauy.net
 hauzdj.quellogiusto.it
+hauzrnifjfsgx.online
 hauzugrauwha.net
 haval.admc-me.com
 haveameet.com
@@ -69501,6 +69508,7 @@ jellabtravest.help
 jellyfinstream.com
 jellyfish.therapieplatz-finden.de
 jelokerrvvmmq.top
+jelokerrvvwyw.top
 jelqc.whiteelegance.com
 jembut.lanciaumo.com
 jempoortis.net
@@ -74707,6 +74715,7 @@ lcbyixmmomlzh.space
 lcc3f7uzwlzlvemggoj9ofmlz4.cyou
 lccboyojtdwq.xyz
 lcccfy.golfenstock.com
+lccevcvzm.com
 lccfjszp.cn
 lccyksqxdaooh.com
 lcd.aivote.com
@@ -88606,6 +88615,7 @@ mufkrwzrpcumw.online
 mufpamrilrdfr.site
 mufrjyufslkcp.space
 muggarstarkly.help
+muggetroomily.shop
 mugkk.toynk.com
 mugpothop.com
 muhjwmynzkfns.site
@@ -90214,6 +90224,7 @@ navigatingnautical.xyz
 navigator-analytics.tweakwise.com
 navikartenshopy.navikartenshop.de
 navilytics.com
+navitarponpicker.cyou
 navrcholu.cz
 navtlkdihvagi.online
 navvy.media.net
@@ -96320,6 +96331,7 @@ owilmik.top
 owipkz.lotuff.co.kr
 owithlerendu.com
 owiurjngsd.com
+owjgjnuxhenge.space
 owjmyerflvbtx.website
 owl.gregwolanski.com
 owl.gymme.nl
@@ -98104,6 +98116,7 @@ payclick.it
 paydemic.com
 paydotcom.com
 payeessarif.com
+payenlore.cyou
 payfbsu.com
 payhawkforextradam.com
 paylienquan.club
@@ -103225,6 +103238,7 @@ px88.porex66.com
 px9.nuderedtube.com
 pxaction.com
 pxambpzbommbb.website
+pxavuanjmfygw.website
 pxayti.hair-express.de
 pxbairohsckfa.online
 pxbitcoin.com
@@ -105269,6 +105283,7 @@ quslba.top
 quspga.xyz
 qustk.aerosleep.com
 quszrmzafudas.online
+qutpswdkdkhbx.online
 qutyan8848.com
 quudraidfg.com
 quwzjyqzsiobg.space
@@ -122759,6 +122774,7 @@ sr5b.28ae00i7.ru
 sr7.va4n.ru
 srahihdzoha.com
 srasomqmogkfpc.net
+sravakaeastre.cfd
 srazuzomkgu.com
 srbnxr.blair.com
 srbtztegq.today
@@ -127808,6 +127824,7 @@ step.arabinofood.com
 stepcattle.com
 stepkeydo.com
 stepmothermultiplydust.com
+steppesequence.com
 steppevareuse.cyou
 stepup.confidentmotherhoodbd.com
 stepup.gallerievespa.com
@@ -172183,6 +172200,7 @@ yyjvimo.com
 yyjxv.godisdope.com
 yykjgou.com
 yylady.cn
+yylocmbfkmymlg.com
 yylqlk.agatinsvet.cz
 yymcmy.com
 yynncbn.cn
