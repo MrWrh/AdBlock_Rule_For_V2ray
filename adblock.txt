@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-05 03:46:08
+# Generated on: 2025-12-05 04:20:20
 # Generated AdBlock rules
-# Total entries: 174523
+# Total entries: 174539
 
 0.myikas.com
 0.nybk.ru
@@ -11872,6 +11872,7 @@ ak9.6895588.com
 aka-cdn-ns.adtech.de
 aka.torquebud.ru
 akabo.ru
+akamcyvmvahax.com
 akamishitworks.jumpingcrab.com
 akanoo.com
 akarakas.com
@@ -23742,6 +23743,7 @@ bjquhxvicujcc.online
 bjrfcu.kamera-express.be
 bjrfg.julep.com
 bjridjaxaqmoc.website
+bjrlkxrlamocc.website
 bjs.faxingzhan.com
 bjsffsj.sbs
 bjsvp35.space
@@ -29350,6 +29352,7 @@ chargecracker.com
 chargeit.baby
 chargeplatform.com
 charhometown.com
+charingvanglovenine.cfd
 chariotfilar.help
 charitablewithdrawal.com
 charityjs.com
@@ -33473,6 +33476,7 @@ cpxkcejzsfcyf.space
 cpxl.golem.de
 cpy.f1auntre6.ru
 cq.ckyq9.ru
+cq96gjrmc1mguze6hyw.cfd
 cqaipi.cristaiscadoro.com
 cqaqwekgzvkek.tech
 cqbbpf.geewiz.co.za
@@ -45581,6 +45585,7 @@ ecrvysupbqcnb.top
 ecrwqu.com
 ecrzm.cusocuts.com
 ecs-124-70-158-53.compute.hwclouds-dns.com
+ecsbpxqjji.com
 ecsmoceoxjdzv.site
 ecsnl.hotelcollection.au
 ecstasycluttergnat.com
@@ -49287,6 +49292,7 @@ eybstar.com
 eyc-marketing.eyc.com
 eycokjjtixrlg.website
 eydemolp.eydemo.adobesandbox.com
+eydmttxbyiide.site
 eydnpidfomjhw.online
 eydqpkyrr.com
 eydvg8.com
@@ -68577,6 +68583,7 @@ itbtdirbwlzmy.store
 itbyppgzzuamb.store
 itcameruptr.com
 itchinglikely.com
+itchingunethical.com
 itchvainly.rest
 itchybattle.pro
 itchyframe.pro
@@ -68776,6 +68783,7 @@ ivvietcombank.com
 ivvmkcwxvifeb.website
 ivvn.cn
 ivwbox.de
+ivwigsvcogagh.website
 ivwkkh.nexity.fr
 ivy.pconline.com.cn
 ivykiosk.com
@@ -70058,6 +70066,7 @@ jmgqvdhjfidwty.com
 jmhrmhgjkdgvd.store
 jmicdumecufvo.site
 jmif.cn
+jmjkcpzkxhcyj.space
 jmjslz.icu
 jmkllewpfhryg.space
 jmlp.app
@@ -74797,6 +74806,7 @@ ldajpiqsg.com
 ldalkskkkk.live
 ldamcsl.top
 ldbgaming24.com
+ldbmrpyrtmiep.online
 ldbnhd.icu
 ldbwxo.cn
 ldcao.juiceplus.com
@@ -91651,6 +91661,7 @@ nkif.cn
 nkis.nikkei.com
 nkisge.nathab.com
 nkjeclbpgotxd.website
+nkjqobdpdf.com
 nkjvwtewemwe.net
 nkjykuobtzsgg.store
 nkksj.nestedbean.com
@@ -108922,6 +108933,7 @@ rofitstefukhatexc.com
 rogerouch.com
 roggledanaid.help
 roglausetsart.com
+rogmntdqjygmepf.com
 rohdnyxp.com
 rohunareblock.click
 roi-en.info
@@ -117716,6 +117728,7 @@ smeetspost.nl
 smelel.icu
 smellyredirect.click
 smelt.allenpike.com
+smemsbyitdrri.website
 smenqskfmpfxnb.bid
 smeofmam.com
 smess.ruggable.co.uk
@@ -121292,6 +121305,7 @@ so6.b3wg2.cn
 so8.hyatt.com
 soa-vip-ssl.xunlei.com
 soachaikufee.net
+soagleleedest.net
 soaheeme.net
 soahefoaca.net
 soahu1wnmt6l.www.replai.io
@@ -132442,6 +132456,7 @@ tck.wonderbox.fr
 tckn-code.com
 tckrx.com
 tckrxee.it.com
+tclcc1bog2lrph.rest
 tclimii.top
 tcloaksandtheirc.org
 tcmcpbjvotuaa.space
@@ -148912,6 +148927,7 @@ vvip-tmsvonline.cc
 vvkholowfoeku.website
 vvktyh.yotsuyagakuin.com
 vvllrb.top
+vvlqbmzlmmoqm.top
 vvlqbmzlmmwoz.top
 vvmkzawomeaoy.top
 vvn8nfgtt8kc6g.rest
