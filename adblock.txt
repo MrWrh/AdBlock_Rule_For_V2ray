@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-05 13:51:48
+# Generated on: 2025-12-05 14:27:47
 # Generated AdBlock rules
-# Total entries: 174665
+# Total entries: 174680
 
 0.myikas.com
 0.nybk.ru
@@ -33790,6 +33790,7 @@ creepybuzzing.com
 crefm.sweatandmilk.com
 creis.site
 crektels.com
+crenelehonkey.shop
 crengate.com
 crenicflail.world
 crentexgate.com
@@ -34861,6 +34862,7 @@ cvcglqxybcnqp.space
 cvclso.fust.ch
 cvdbvcrpzjrgv.website
 cvdjkxsucrcya.website
+cvdxnqhbcvsgncv.com
 cvfczwcrnhyxm.space
 cvfovyleufbbt.space
 cvftv2.com
@@ -54795,6 +54797,7 @@ gdjme27.com
 gdjvkd.tenshoku.mynavi.jp
 gdk.f1rewall.ru
 gdkduruiukwyn.website
+gdkduwopaseic.online
 gdknrkjo.com
 gdkpyvhopdxzq.website
 gdl.i9dhjx.ru
@@ -61158,6 +61161,7 @@ handsomelythumb.com
 handsomeyam.com
 handtub.com
 handwritingautumn.com
+handy-spite.pro
 handy-tab.com
 handyfield.com
 handyfireman.com
@@ -63142,6 +63146,7 @@ hollaedcalends.cfd
 hollg8023.745c.cn
 holloespodite.life
 hollow-mess.com
+hollow-network.pro
 hollowafterthought.com
 hollowcharacter.com
 hollylifeglobal.com
@@ -63671,6 +63676,7 @@ hqjqjycvwpyhg.website
 hqjuww.kolesa-darom.ru
 hqkelsrnldxnx.icu
 hqluu46i3a.com
+hqlzofmfzfar.com
 hqmwsnmnyxkyo.space
 hqnmuuwcsudqd.store
 hqnpwzu.cn
@@ -69945,6 +69951,7 @@ jixurt.icu
 jiybmrwtiilkml.net
 jizbijdmbrtyb.online
 jizpyy.bett1.ch
+jizqpdcnfurvd.online
 jizzarchives.com
 jizzensirrah.com
 jizzy.org
@@ -85802,6 +85809,7 @@ mfwmud.winelivery.com
 mfxlpkvsqsgpq.online
 mfxyqh.cn
 mfyavsmiha.com
+mfymrypcirm.com
 mfynwrbjbbybm.site
 mfysum.miamasvin.co.kr
 mfzijmmmuiibz.website
@@ -95619,6 +95627,7 @@ oracle.marketingcube.com.au
 oracleinfinity.io
 orage.canadagoose.com
 oraheadyguinner.org
+oraisonlucarne.click
 orakzaighazies.help
 oralismyelloch.com
 oralu.casamspice.com
@@ -104864,6 +104873,7 @@ qqzbabc20.com
 qr-player-new.com
 qra.we4ex.ru
 qrahi.macro-plate.com
+qraollantiaiv.online
 qrcnft.com
 qrcode-711.rxytu.com
 qrcqrc.com
@@ -144521,6 +144531,7 @@ ustat.pro
 ustcoins.tw
 ustoupaumoaw.net
 ustuthaupoaw.net
+ustxvwabeeqok.online
 usuallyformal.com
 usualsparehumanity.com
 usuarios-online.com
@@ -148933,6 +148944,7 @@ vtv24.site
 vtvay.com
 vtvnnl.xyz
 vtx2r60nuf.com
+vtxcwfiaiucur.website
 vtxnfezsswgbq.website
 vtzad.focl.com
 vtzik.amberjack.shop
@@ -149216,6 +149228,7 @@ vyt.lo9q.ru
 vytjbahlkcmwn.space
 vytkxcvmdzgbj.online
 vytn.cn
+vytpdqiqwezti.website
 vyuaolnqfgoas.store
 vyuodh.your-look-for-less.nl
 vyvjoevkyeow.top
@@ -152411,6 +152424,7 @@ wmgvqriznrji.com
 wmip.ru
 wmirk.ru
 wmizdm.relax-job.com
+wmjmvrmfdvfvq.site
 wmkes.com
 wmktew.icu
 wmlatpmbcaebl.space
@@ -168764,6 +168778,7 @@ xinxinmingml.com
 xinyangvip.com
 xinym1.xyz
 xinzimei666.top
+xiobpoetdfjyk.website
 xiozrgajvpfry.site
 xipaskbsdzlbj.online
 xiphiidbachel.com
