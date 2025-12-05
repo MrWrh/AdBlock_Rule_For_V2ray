@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 03:45:03
+# Generated on: 2025-12-06 04:19:48
 # Generated AdBlock rules
-# Total entries: 174937
+# Total entries: 174955
 
 0.myikas.com
 0.nybk.ru
@@ -1496,6 +1496,7 @@
 2wq9u06jq.com
 2wt.icu
 2wu0m0ms098w7148.xyz
+2wwkx543inqe2o.cfd
 2x7.q3lo.ru
 2xado.oak-ember.ru
 2xclick.ru
@@ -7216,6 +7217,7 @@ acenttw.us
 acentvip.com
 aceporntube.com
 acerdolspinout.qpon
+acerecipientevenings.com
 acertb.com
 acervaldatedly.shop
 acesso.alvesealvesimoveis.com.br
@@ -18691,6 +18693,7 @@ asamgd.rossmann.de
 asanalytics.booking.com
 asaservicedg.csc.com
 asassassaasas.pages.dev
+asayfwihbwkii.space
 asbfala.com
 asbhv.invictastores.eu
 asbulbasaura.com
@@ -47816,6 +47819,7 @@ erogazopple.com
 eroge.com
 eroidere.com
 eroksen.ru
+eromkfzhemkeo.space
 erotikdating.com
 erotop.lv
 erovation.com
@@ -48747,6 +48751,7 @@ events.funnelish.com
 events.gartland.com.au
 events.getmodemagic.com
 events.getsitectrl.com
+events.gfe.nvidia.com
 events.hermanmiller.com
 events.hotjar.io
 events.iap.unity3d.com
@@ -52333,6 +52338,7 @@ foldinsinuate.com
 foldyahoolestorderly.com
 foliosstrafer.qpon
 foliousmulled.world
+folksbelksvanish.cyou
 folkswrymyrtle.com
 follisspiss.qpon
 follow.51tripsbrand.com
@@ -55349,6 +55355,7 @@ gf.hkex01.top
 gf.soengir.top
 gf0c0qtw080425z7.cfd
 gf7t.cheques-cadeaux-culturels.fr
+gfarjbjemnjog.space
 gfbdb1.com
 gfbxsoxbywqvp.store
 gfdlnadm.damask.dk
@@ -60217,6 +60224,7 @@ gwx.adnext.co
 gwyasset.com
 gwynorxqqcqxg.site
 gwyorodtr.com
+gx-target-experiments-frontend-api.gx.nvidia.com
 gx.laqygye.ru
 gx0.funfuckmovies.com
 gx0tr.gr0upw0rk.ru
@@ -73892,6 +73900,7 @@ kvwibtxllnpfw.space
 kvxjxbrsxhgw.xyz
 kvyeerabknmjk.store
 kvylquisaduxr.store
+kvysslhsbayel.online
 kvyuqphervyet.store
 kvzbonvsutara.website
 kvznoubscgeep.website
@@ -73998,6 +74007,7 @@ kxqeq.dur2treces5.ru
 kxri.cn
 kxrstqaffvxnhbo.com
 kxtmstjs.org
+kxuingylmnoxo.space
 kxxyhjamtwozu.space
 kxym8199.com
 kxyumk.icu
@@ -74326,6 +74336,7 @@ l955trkbgx6yn1ui5eil.rest
 l997.lmtonline.com
 l9q7.6aiiwi2.ru
 l9qxrmda6.com
+l9vzxerxxrwixjrkb92lgp79fp.rest
 l9zkm.pleasedonotblockme.com
 la-bnpcledigital.com
 la-la-moon.com
@@ -102147,6 +102158,7 @@ prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prod.html5-ads.vk-apps.com
 prod.nitrosniffer.ottogroup.io
+prod.otel.kaizen.nvidia.com
 prod.report.nacustomerexperience.citi.com
 prod.tahoe-analytics.publishers.advertising.a2z.com
 prod.uidapi.com
@@ -103439,6 +103451,7 @@ pvvbmhfkmpfpx.online
 pvvii.griotsgarage.com
 pvvxfh.top
 pvwjsqwndsoqy.store
+pvxnrtrynfry.com
 pvxqymkmvudgk.com
 pvxzjdetbhrtz.top
 pvymlsvo.xyz
@@ -132779,6 +132792,7 @@ tcjjaiaf.net
 tck.photobox.com
 tck.wonderbox.fr
 tckn-code.com
+tckpbztfegetd.space
 tckrx.com
 tckrxee.it.com
 tclcc1bog2lrph.rest
@@ -133251,6 +133265,7 @@ telemetry.commonspirit.org
 telemetry.doitbeststore.com
 telemetry.dzen.ru
 telemetry.eastus.trafficmanager.net
+telemetry.gfe.nvidia.com
 telemetry.goodlifefitness.com
 telemetry.individual.githubcopilot.com
 telemetry.insights.video.a2z.com
@@ -149278,6 +149293,7 @@ vvdrhe.win
 vvdzucs.cn
 vve.xilecai.com
 vvelrp.thinkshoes.com
+vvewkblbvekky.top
 vvewkblbvekyj.top
 vvfgjzwa.icu
 vvfht.fun
@@ -151853,6 +151869,7 @@ whichdespite.com
 whichmeu.com
 whickerkarates.com
 whickootchoatiz.net
+whidrungimpot.net
 whiggedindex.com
 whikyshop.com
 whilockseaters.qpon
@@ -153263,6 +153280,7 @@ wqtdas.cc
 wqtfijyhoppfk.website
 wqtpdbegijbuz.website
 wqudcv.finnishdesignshop.com
+wqvutlpjflrjg.website
 wqvwqxstgqjyk.fun
 wqwkta.casadopapel.com.br
 wqwoynnxgujac.online
