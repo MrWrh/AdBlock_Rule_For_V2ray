@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-06 07:24:37 (GMT+8)
-# Total entries: 174976
+# Generated on: 2025-12-06 07:48:35 (GMT+8)
+# Total entries: 174980
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -44696,6 +44696,7 @@
 "dysbvu.bodyandfit.com",
 "dyshbj.gshnds.top",
 "dysuze6ljcmcr.cloudfront.net",
+"dytuj6zs26.com",
 "dyv1bugovvq1g.cloudfront.net",
 "dywidbaxmqtkd.site",
 "dywuhp-unbnf.love",
@@ -96645,6 +96646,7 @@
 "owonchghcurdw.website",
 "owougoodoom.net",
 "owpush.rabbit.click",
+"owqbirykia.com",
 "owqbsl.kuhl.com",
 "owqbvomroabvp.online",
 "owrkwilxbw.com",
@@ -113050,6 +113052,7 @@
 "schappebopyrid.qpon",
 "schavscongery.click",
 "schedfi.com",
+"schedule77.top",
 "scheduleginnarcotic.com",
 "schedulegoeshydrogen.com",
 "schedulerationally.com",
@@ -147317,6 +147320,7 @@
 "vid12040hl.com",
 "vid12050hl.com",
 "vid12051hl.com",
+"vid12060hl.com",
 "vid123.net",
 "vid4u.org",
 "vidalak.com",
