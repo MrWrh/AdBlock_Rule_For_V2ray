@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-05 09:19:49
+# Generated on: 2025-12-05 10:57:21
 # Generated AdBlock rules
-# Total entries: 174625
+# Total entries: 174649
 
 0.myikas.com
 0.nybk.ru
@@ -3077,6 +3077,7 @@
 72d6526e68.8e323e599c.com
 72hdgb5o.de
 72k.hpap-6.ru
+72xh073u9.com
 730fcb332f.com
 732quilulv.com
 73336zubo25326.com
@@ -21077,6 +21078,7 @@ baiyi7777.net
 baiyi888.net
 baiyi8888.net
 baiyishaonian.cn
+baizingodic.shop
 baj.fanwenzhan.com
 baj.pot-5.ru
 bajoansams.net
@@ -23263,6 +23265,7 @@ bison.stuffmatic.com
 bison.weitweit.at
 bisrtb.vidazoo.com
 bistadaka.com
+bistdocking.shop
 bisto.shinesty.com
 bistrosorating.qpon
 bit-9158.net
@@ -31228,6 +31231,7 @@ cncnails.net
 cncpt-central.com
 cncpt.dk
 cncptx.com
+cnduoumdmxtrt.online
 cnemxc.fursource.com
 cnesnnavxumlh.online
 cnetcontentsolutions.com
@@ -43921,6 +43925,7 @@ dryvoa.cn
 dryzxafwqiyfy.site
 drzbe.agileoffroad.com
 drzqijno6u91u832r91yqzou1jvd5pn2mt2s.com
+drzxsvzlldcet.space
 drzzg.mallet.com
 ds-aksb-a.akamaihd.net
 ds.11st.co.kr
@@ -46450,6 +46455,7 @@ electricalglimmerexasperate.com
 electricalsedate.com
 electricity2.tokyu-ps.jp
 electricruin.pro
+electronic23.com
 electronicchipsir.com
 electrum-wallets.io
 electrumwallet.io
@@ -51789,6 +51795,7 @@ flexpod.ynsecureserver.net
 flexterkita.com
 flexuji.com
 flexvidnc.com
+flfahkpekwzfb.site
 flfevzewxynrf.website
 flgacawxvxozr.space
 flgch4eegy54z5czrzy.cfd
@@ -62850,6 +62857,7 @@ hltryajudhiwp.space
 hlufsqadxupgr.website
 hlviet84.com
 hlwguammsvikv.online
+hlwtejrntzikz.online
 hlx7gepwl5xlyuo821w.cyou
 hlxlr4fztcuy2jk1k91ce.cfd
 hlxyidqacaivu.site
@@ -66526,6 +66534,7 @@ indelibleeconomy.pro
 indelicateexcept.com
 indelicateglacier.com
 indelicatepokedoes.com
+indentsrondels.com
 independentacceptable.com
 index.brokercfd.xyz
 index.ifinancego.store
@@ -71880,6 +71889,7 @@ kavtqkbsyrpzt.site
 kavyasourcing.com
 kawcwtuxb.net
 kawdxm.online
+kawf.cn
 kawfulxh.com
 kawtsayrnwyar.store
 kawxkg.icu
@@ -73314,6 +73324,7 @@ kposzngwqknai.space
 kpow.kn1fecast.ru
 kppgz.grandinroad.com
 kppqi.pavlok.com
+kpprlojmsm.com
 kpqgh.directmeds.com
 kpqoiewdruvvr.website
 kpqyxuicnazqf.website
@@ -74242,6 +74253,7 @@ labs.gr1tbinder.ru
 labs.relationshipone.com
 labs0.tweak-mire.ru
 labtpb.online
+labumhitjxctw.online
 labwcupacoqc.com
 lacavihvoreng.space
 lace.bid5.ru
@@ -92686,6 +92698,7 @@ ntvpwpush.com
 ntwrencesprin.org
 ntxviewsinterfu.info
 ntyivmvvzscaj.store
+ntyuxyriuojuo.site
 nu.esri.nl
 nu.fenod.ru
 nu.n2-ke.ru
@@ -99232,6 +99245,7 @@ phase3.tundraflip.ru
 phase4.brim-hopper.ru
 phase7.clearm0on.ru
 phase7.zimloop.ru
+phaseshift.almagrow.com
 phasexeemaudsie.net
 phastoag.com
 phatqualienminh2015.weebly.com
@@ -104178,6 +104192,7 @@ qhaazaduez.com
 qhaccid.com
 qhaelqata.com
 qhajryiuy.com
+qhangrotl.com
 qhanphietd.com
 qhatarsl.com
 qhbnu.sokolovelaw.com
@@ -108048,6 +108063,7 @@ reviewphim.pro
 reviews.coeebags.su
 revillusiveheavily.com
 revimedia.com
+revisorlogout.help
 revivalvoice.com
 revive-adserver.net
 revive-console.worldscreen.com
@@ -112764,6 +112780,7 @@ scashwl.com
 scatteredheat.com
 scatteredstream.com
 scattyvestas.help
+scattziganka.qpon
 scautnotum.world
 scavagepoppets.help
 scavelbuntine.life
@@ -113679,6 +113696,7 @@ seedtag.com
 seedv.juiceplus.com
 seefiouewvgfl.space
 seegeshop.com
+seegroucho.net
 seehewasde.org
 seehits.com
 seek.intel.com
@@ -117593,6 +117611,7 @@ slow-bike.pro
 slow-inspector.pro
 slow-sensitive.pro
 slow.koq0.ru
+slowbeetle.cfd
 slowbrother.pro
 slowchicken.pro
 slowdn.net
@@ -117777,6 +117796,7 @@ smbzsbsahhxaj.online
 smccw.com
 smcdxffhlkifc.site
 smcpvvmflcmlc.store
+smcqtqomsteno.space
 smct.co
 smdgll.polar.com
 smdws.cwbank.com
@@ -135238,6 +135258,7 @@ tniujy.natura.com.br
 tnjvz.cn
 tnkad.net
 tnkfactory.com
+tnkuetnoabuk.com
 tnldwmvchtdw.com
 tnlixn.icu
 tnlszozefygrt.online
@@ -141282,6 +141303,7 @@ turtle.mushtache.com
 turtle.mydataroom.io
 turtle.sid.scot
 turtlemobile.com.tw
+turtlerdhunchihiphalt.cfd
 turtupeshou.net
 tururu.info
 tushf.top
@@ -144427,6 +144449,7 @@ ushercensor.com
 usherfrightenwaiter.com
 ushermassacrecranny.com
 ushiuks.com
+ushxzrtwwxbho.space
 usiablwvpqmqr.site
 usihecbkdzxbw.site
 usingageghoaft.net
@@ -172338,6 +172361,7 @@ yylady.cn
 yylocmbfkmymlg.com
 yylqlk.agatinsvet.cz
 yymcmy.com
+yynapudha.com
 yynncbn.cn
 yypkjxtumgofe.site
 yyqlpi.danmusikk.no
