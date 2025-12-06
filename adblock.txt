@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 13:47:00
+# Generated on: 2025-12-06 14:24:36
 # Generated AdBlock rules
-# Total entries: 173001
+# Total entries: 173034
 
 0.myikas.com
 0.nybk.ru
@@ -965,6 +965,7 @@
 1tjpki3yzy4w.com
 1to1.bbva.com
 1tp.icu
+1tq8wmc5g54cfl2q.cfd
 1tqwn.morrowplug.ru
 1traf.ru
 1ts03.top
@@ -10999,6 +11000,7 @@ afm01.com
 afmfaaoswjfdl.online
 afminer.com
 afmrmyacgrvqq.store
+afmuaatkgvhtq.website
 afmvms.dealdash.com
 afnkhlcpleyog.space
 afno.cn
@@ -22167,6 +22169,7 @@ beratfoaming.shop
 berberomber.qpon
 berenx.com
 berg.graniteweide.ru
+bergamabycokettricorn.cyou
 bergen1130.vip
 bergfi.com
 berideoestrin.cyou
@@ -23645,6 +23648,7 @@ bl3nda.glimmerkranz.ru
 bl9.ir
 bla.backloghelme.digital
 bla01.icefjp.com
+black-courage.pro
 black25.cursosflexcompany.com.br
 black6adv.com
 black77854.com
@@ -28906,6 +28910,7 @@ cfusionsys.com
 cfvcjyksaerua.fun
 cfwlvmg.top
 cfyhym.weightwatchers.fr
+cfzbgrgqlwubd.space
 cfzrh-xqwrv.site
 cg.vbep3.ru
 cg.vgof.ru
@@ -31911,6 +31916,7 @@ complainguyseaweed.com
 complaintssplittingsuperlative.com
 complete-drink.com
 complete.smilecbd.jp
+completenurse.pro
 completesuccession.com
 completionloyalty.com
 complexionbootydistinction.com
@@ -41902,6 +41908,7 @@ disloyal-peak.pro
 disloyal-soil.pro
 disloyalmidnight.pro
 disloyalmoviesfavor.com
+dismal-employment.pro
 dismalbowl.com
 dismalcontact.com
 dismantlepenantiterrorist.com
@@ -49816,6 +49823,7 @@ fcpnxx.xyz
 fcpszk.telestream.net
 fcq.z2q2.ru
 fcqkfnxepdhrq.love
+fcqrzagadhlvn.online
 fcqxpfnznomxj.website
 fcqztan.cn
 fcqzufbjogbkj.store
@@ -51596,6 +51604,7 @@ fmjo.cn
 fmkihcyictkhby.com
 fmkipgm.icu
 fmksnfjldgpls.buzz
+fmkuhozxqvwro.site
 fml-x.com
 fmlabsonline.com
 fmlau.ocoabeauty.com
@@ -60506,6 +60515,7 @@ hammilybuna.com
 hammingformat.qpon
 hammocksteedconjecture.com
 hamoney.xyz
+hamouspritch.com
 hamster.consentkit.io
 hamster.darstellendekuenste.de
 hamsterspot.com
@@ -61816,6 +61826,7 @@ hiringhymned.help
 hiringsethynes.help
 hirmatrix.hu
 hirsailauph.net
+hirselaftaba.cfd
 hirslesporkery.qpon
 hirurdou.net
 his.xa5r.ru
@@ -67292,6 +67303,7 @@ involvingrallyanthem.com
 inwardabruptly.com
 inwardupsettingcudgel.com
 inwmizqchqjlk.space
+inwornpelikai.cyou
 inwuamo.top
 inwucno.top
 inxgfxylzkkgi.one
@@ -80327,6 +80339,7 @@ madskis.com
 madslimz.com
 madsone.com
 madspmz.com
+madtrainer.pro
 madurird.com
 maebtjn.com
 maejzevcvnvlj.site
@@ -86968,6 +86981,7 @@ mountedblueberrytall.com
 mournedcarpid.world
 mournenterprise.com
 mournersamoa.com
+mournevoteswiggle.cfd
 mournpolar.help
 mouroogripese.net
 mouse.anthony-noel.com
@@ -89296,6 +89310,7 @@ naughty-black.com
 naughty-breast.pro
 naughty-industry.pro
 naughtynotice.pro
+naughtyspeaker.pro
 nauknceiwouldli.com
 naukreatn.com
 naumeeshobouz.net
@@ -90716,6 +90731,7 @@ nkif.cn
 nkis.nikkei.com
 nkisge.nathab.com
 nkjeclbpgotxd.website
+nkjievzucmyzctm.rest
 nkjqobdpdf.com
 nkjvwtewemwe.net
 nkjykuobtzsgg.store
@@ -91019,6 +91035,7 @@ nodthunderthis.com
 noduwzniqnshf.site
 noechoinfit.click
 noesgosain.world
+noeuymfjtquuk.site
 noflake-aggregator-http.narvar.com
 nogff.top
 nogogey.top
@@ -91038,6 +91055,7 @@ noisseurlin.org
 noisyanywhere.pro
 noithaticon.vn
 nojazz.eu
+nojjpugwlpwns.online
 nokakjaulkrgi.site
 nokaut.link
 nokontoken.com
@@ -91574,6 +91592,7 @@ nstracking.com
 nstytzmbwuylf.site
 nsvohb.top
 nswtojdi.icu
+nsxcxjplepwatxm.com
 nsxtramxysmlw.online
 nsxuqpktglnwp.website
 nszbiwxorynnf.xyz
@@ -92613,6 +92632,7 @@ octo25.me
 octoatedoesnt.shop
 octoberads.space
 octobertheatrenosy.com
+octoicmayer.qpon
 octolinkcom.me
 octonew.me
 octonewjs.com
@@ -95525,6 +95545,7 @@ ozkqakffarri.com
 ozkri.apotheke-zaversky.at
 ozkwcvtpxoxnh.site
 ozlhjzqupdyuu.site
+ozmogfskuatx.com
 oznlro.sanity.com.au
 ozoj.com
 ozonemedia.com
@@ -104464,6 +104485,7 @@ qzda.cc
 qzdwez.websurfshop.com.br
 qzebbfqzgtrtx.space
 qzedtifkkkgsa.site
+qzeibuevhxeac.online
 qzfcqddxkdliy.top
 qzjcjpugwmdda.site
 qzkacxjzegehl.space
@@ -107524,6 +107546,7 @@ rmvvawqleqlev.top
 rmvvawqobqeov.top
 rmws8.com
 rmwumpqxbuwqv.online
+rmwzbombkqrkq.top
 rmx.ye-t5c.ru
 rmxads.com
 rmxmtsg.wowe.me
@@ -107690,6 +107713,7 @@ roefcldengayg.site
 roemersfusses.help
 roemoss.com
 roewnand.biz
+roeyaphodi.help
 roeymarara.rest
 rofant.com
 rofitstefukhatexc.com
@@ -107775,6 +107799,7 @@ rook.flowlens.com
 rook.grithix.com
 rook.ju-5-q.ru
 rookedpurees.cyou
+rookieceibo.cyou
 rookishbirde.com
 rooksfiancee.help
 rooloacooboad.net
@@ -109087,6 +109112,7 @@ rune5.st0nebird.ru
 runeboiling.click
 runetki.co
 runicheir.cyou
+runklesapneal.click
 runn.fun
 runnelsranids.qpon
 runnerbesiegerelative.com
@@ -141342,6 +141368,7 @@ uglytraining.com
 ugmarketing.smu.edu.sg
 ugmbe.a-5-t-1-gstudy.ru
 ugmhqqlicdaqg.online
+ugnnrfdqweah.com
 ugopkl.com
 ugox.cn
 ugqaxpmhdveiv.website
@@ -142986,6 +143013,7 @@ ut822p6gpwuig6n.cfd
 utajxinmmiuhp.site
 utaltfwrmzqz.com
 utarget.co.uk
+utawiior.com
 utazznapolyba.hu
 utblov.perus.co
 utbwuu.ultracasas.com
@@ -144655,6 +144683,7 @@ vbefb.goclove.com
 vbgyniffuy.com
 vbhdbah1mansdba.com
 vbhk.bcxsg.social
+vbhxtulyqyaxg.com
 vbiakpu.icu
 vbihcm.alaiyeresorthotel.com
 vbiqz.schutz-shoes.com
@@ -144901,6 +144930,7 @@ veilsuccessfully.com
 veiltrench.com
 veinaldink.cfd
 veininghesa.org
+veinletscamper.help
 veinsoloistsubstitute.com
 veinteractive.com
 veirkaey.com
@@ -147468,6 +147498,7 @@ vvsjyapbsm.com
 vvstra.top
 vvstra.xyz
 vvtwasjebvswf.website
+vvucsxbdqbjzg.site
 vvuii.ogee.com
 vvusxpvwokviz.website
 vvuttotofvazt.site
@@ -147476,6 +147507,7 @@ vvv.qqdashabi.top
 vvv5588.bitomax.net
 vvvietcombank.com
 vvvpmscvtlhcjbybrwjg.supabase.co
+vvvshlnaxlbyp.website
 vvvvw-icloud.com
 vvwuqxp.icu
 vvww-icloud.com
@@ -150654,6 +150686,7 @@ wkndiu.profi.ru
 wknhhzkutuxbg.site
 wkoeoarkqqyav.top
 wkoeoarkqqywr.top
+wkovejutjgyil.site
 wkptzopfmmezc.space
 wkpvhgnzgxkyu.site
 wkpvtc.fluege.de
