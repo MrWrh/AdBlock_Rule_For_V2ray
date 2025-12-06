@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-07 01:45:03
+# Generated on: 2025-12-07 02:22:56
 # Generated AdBlock rules
-# Total entries: 172907
+# Total entries: 172931
 
 0.myikas.com
 0.nybk.ru
@@ -6381,6 +6381,7 @@ aabeautiful.cn
 aabjyjjphdwmb.site
 aac.kegood.com
 aachain.app
+aacsqpdhmnlak.site
 aacycjgsifojcw.com
 aad-marketing.ascendeventmedia.com
 aada35c15f.com
@@ -20951,6 +20952,7 @@ balluterelais.rest
 balmilyewest.cyou
 balmygorger.cfd
 balmyrind.com
+balneaecrazes.click
 balneapiner.cfd
 balneumboas.click
 baloise.sh
@@ -23872,6 +23874,7 @@ blotchinvestigation.com
 blotecardthumb.com
 bloteemit.world
 blottermorabit.cyou
+blousenymphopounder.cfd
 blowingwind.xyz
 bloworkey.cfd
 blowyameen.qpon
@@ -41296,6 +41299,7 @@ diapersseisor.cyou
 diastemheavens.shop
 diasyrmunionic.com
 diav.cn
+diavesbxjelfy.com
 dibaiweiai.com
 dibsemey.com
 dibtk.medtronic.com
@@ -46203,6 +46207,7 @@ elusivebreeze.com
 elusivecascade.com
 elusivesimagre.rest
 elwood-btc.store
+elwroycegbpei.website
 elxont.com
 elyandbegantoti.com
 elymuscostate.com
@@ -49952,6 +49957,7 @@ feelresolve.com
 feelsjet.com
 feelssunkcredential.com
 feepothugib.net
+feepsoofoamouy.com
 feeptugraphiy.net
 feernhuhe.com
 feewebs.org
@@ -52164,6 +52170,7 @@ fqjxmzlhmfmuk.online
 fqled.prepapizza.com
 fqljqjpufoclc.online
 fqllkxrwtyguh.online
+fqlrernunnk.com
 fqnhjt.icu
 fqnjjkzphtvnl.website
 fqnojp.top
@@ -53864,6 +53871,7 @@ garnishrnd.cfd
 garosesia.com
 garotas.info
 garotemuruxi.com
+garredtriter.help
 garrenamembershipp.com
 garrotcoronae.help
 garroteoutlying.com
@@ -61331,6 +61339,7 @@ herring.artemis.cloud
 herring.panda.network
 herringbucket.com
 herryimmixed.com
+hersesoget.rest
 hersfohiplace.org
 hersheymushaa.qpon
 hertechlife.com
@@ -64466,6 +64475,7 @@ idpgakrenkmki.store
 idpjfsvpydrrq.website
 idpvgjtqaiygt.space
 idqmcmowhjmps.website
+idqodpsjvxftt.online
 idreamed.com
 idreammedia.com
 idsfq.katespade.de
@@ -73356,6 +73366,7 @@ labtpb.online
 labumhitjxctw.online
 lacavihvoreng.space
 lace.bid5.ru
+laceokay.com
 lacerateclimaxthrow.com
 lacessateens.com
 lackadaisicalkite.com
@@ -78216,6 +78227,7 @@ lsvfzskgudyyr.site
 lsvipeg.cc
 lswfmx.stuartweitzman.com
 lswteiiyfccwt.site
+lsxhxrpnhrqoj.space
 lsxpzalzmioxq.online
 lsxvnzif.icu
 lsxvvokpclst.com
@@ -87968,6 +87980,7 @@ mwxxgdhvhdrgt.space
 mwxyq.com
 mwzbp.ccbangong.com
 mwzbp.iask.com.cn
+mwztyflmatxei.site
 mx-cota.vivoglobal.com
 mx-domaincfg.vivoglobal.com
 mx-err-up.vivoglobal.com
@@ -96899,6 +96912,7 @@ pasteldrowsyaboriginal.com
 pasteljav128.fun
 pastelspittle.com
 pastieschechia.cyou
+pastiesyoruba.help
 pastimeprayermajesty.com
 pastoralroad.com
 pastoupt.com
@@ -98423,6 +98437,7 @@ pin.hpplay.cn
 pin6d37stu.com
 pinacaban.cyou
 pinboneeach.click
+pinchingrapacitydragged.com
 pinchsquirrel.com
 pincounty.xyz
 pincourse.com
@@ -100798,6 +100813,7 @@ profile.everydayporn.com
 profile.exthinkmarkets.com
 profileid.info
 profileid.site
+profileinsistnineteenth.com
 profiler-collector.wshareit.com
 profiliate.net
 profiling.avandor.com
@@ -101987,6 +102003,7 @@ pvgcedbveetxz.website
 pvglc.petespasta.com
 pvhpt.betabrand.com
 pvhz2jnbpzkxu3p22.rest
+pviiyfvnuggiz.site
 pvjep.edsflyshop.com
 pvjjg.plouise.co.uk
 pvkc.cn
@@ -104259,6 +104276,7 @@ qxrbu.com
 qxrvmu.com
 qxsfaj.caloo.jp
 qxvqhy.miliboo.es
+qxvreljnjaqwr.online
 qxwls.rocks
 qxwoiv.com
 qxxbak.naszenoce.pl
@@ -106387,6 +106405,7 @@ requinsplugmen.qpon
 required-crack.pro
 requiredswanchastise.com
 requisiteconjure.com
+rerackvibioid.help
 reraiphicmaigh.net
 reratgzvukwje.website
 rereddit.com
@@ -108020,6 +108039,7 @@ rqxtbr.xyz
 rqyebojzwalza.top
 rqyjlkojuohpv.online
 rqykyzjfwyjbu.online
+rqyouxwqzrayq.website
 rqyxdk.myanimelist.net
 rqz4.supdigital.fr
 rqzolelelmyjq.top
@@ -115501,6 +115521,7 @@ silvermap.pro
 silvermob.com
 silverpop.com
 silverpush.co
+simasliernes.shop
 simbhaolisugars.in
 simblotusitate.com
 simg.bwin.be
@@ -120501,6 +120522,7 @@ sosoabassirayonny.cfd
 sosten38999.duckdns.org
 sostexampp.duckdns.org
 sotchoum.com
+sottermufasal.qpon
 sotterysparrer.life
 sotunet.com
 sotuyenvcb.vietcombanker.com
@@ -140268,6 +140290,7 @@ twinrdsyte.com
 twinrtb.com
 twinsrv.com
 twinzo.ru
+twiqinmaba.com
 twirlamassante.com
 twirlparchextent.com
 twistads.com
@@ -147369,6 +147392,7 @@ vvewkblbvekky.top
 vvewkblbvekyj.top
 vvfgjzwa.icu
 vvfht.fun
+vvhjqvcmdbkyc.com
 vvhju.rezoni.com
 vvi.bb-3-y-5.ru
 vviav.leftonfriday.com
