@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 23:45:11
+# Generated on: 2025-12-07 00:19:41
 # Generated AdBlock rules
-# Total entries: 172888
+# Total entries: 172907
 
 0.myikas.com
 0.nybk.ru
@@ -3651,6 +3651,7 @@
 8o6.halfquark.ru
 8p.p8ri.ru
 8pjqjxmr.com
+8pnrb2hvif85p6.rest
 8po.gr-1-tbinder.ru
 8po6fdwjsym3.com
 8q.614lo.ru
@@ -11132,6 +11133,7 @@ aggregatedcompetitivefrock.com
 aggregateknowledge.com
 aggregationdestructoppression.com
 aggregationmodest.com
+aggressive-door.pro
 aggressivecomfort.pro
 aggressiveinformation.pro
 aggtizmals.com
@@ -11754,6 +11756,7 @@ ajmivgvmaclye.online
 ajmtefoi.com
 ajo1gdc.ajo1gdc.adobevlab.com
 ajoxxit.top
+ajpielqqmdqat.com
 ajqaqk.unoliving.com
 ajrkm1.com
 ajrkm3.com
@@ -23579,6 +23582,7 @@ bkgzynoggdslv.website
 bkh6b4j8cfj2u5xjhu.cyou
 bkhblj.xyz
 bkhcoin.us
+bkitolyl.com
 bkjcspqtrlafh.online
 bkjgqyasbalgk.website
 bkjhqkohal.com
@@ -63475,6 +63479,7 @@ hunter-hub.com
 hunter.sfsoaoter.com
 hunterdelivery.com
 hunterers.com
+hunterheroiccompassion.com
 hunterlead.com
 huntmad.com
 hunzlj.icu
@@ -63627,6 +63632,7 @@ hwmonitor-ru.ru
 hwnod.xyz
 hwntbehufghtb.online
 hwoqsiyqqina.net
+hwpibmxqcngev.website
 hwpnocpctu.com
 hwpub-s01-drcn.cloud.dbankcloud.cn
 hwpub.com
@@ -68232,6 +68238,7 @@ izaybwqvajljf.space
 izbwce.secretoutlet.com.br
 izcfq.haverhill.com
 izcftgjuemufo.site
+izdonegkaboga.website
 izea.com
 izearanks.com
 izechqbrmajqr.online
@@ -72486,6 +72493,7 @@ kqpol.heroesvillains.com
 kqqqdsdsneptw.space
 kqsebncdjeuuj.site
 kqubxdb.cn
+kqw6ccgiuv37gv73z6.cfd
 kqxomdlv.com
 kqyjyxyjpuiqr.website
 kqyyds.redkassa.ru
@@ -73348,6 +73356,7 @@ labtpb.online
 labumhitjxctw.online
 lacavihvoreng.space
 lace.bid5.ru
+lacerateclimaxthrow.com
 lacessateens.com
 lackadaisicalkite.com
 lackersmank.help
@@ -75547,6 +75556,7 @@ lmngvqqskhppa.online
 lmnpd.xyz
 lmoney01.com
 lmpadebis.gala-series.com
+lmqvowejajzqy.top
 lmrljuiymdtry.space
 lmtra.lonepeakoverland.com
 lmtruueagl.com
@@ -104115,6 +104125,7 @@ qvgmgjysbwpgb.website
 qvhwzubuzbcvj.site
 qvie2jqtezi86cu2xc3we5x5fyz.cfd
 qvikar.com
+qvipuowqkckun.website
 qvir.cn
 qvlatpbizkile.site
 qvlcdw.ho-br.com
@@ -106822,6 +106833,7 @@ rfvrd.infinitediscs.com
 rfwklaw.com
 rfwmfadnncajl.site
 rfyzxmrwbzaky.space
+rfzceomcyqvij.space
 rfzdstuifejbv.com
 rfzjyoayftjgb.website
 rfzugmgrmbzqq.space
@@ -110505,6 +110517,7 @@ salutetutortwiddling.com
 salvador24.com
 salvageapplet.com
 salvationclaimsunfortunately.com
+salvechawia.click
 salvgceyqbtpd.website
 salviarhebok.rest
 salviolmarital.cyou
@@ -111952,6 +111965,7 @@ searchresultsadblocker.com
 searchresultsworld.com
 searchsecurer.com
 searchtds.ru
+searestargos.cyou
 searforsear.online
 searsshope.com
 searsshopes.com
@@ -128417,6 +128431,7 @@ sxk9m8x.cn
 sxknohdvtxwur.site
 sxlflt.com
 sxmxpm.nectarsleep.com
+sxnknknfjjupi.online
 sxobqwbiiknjp.website
 sxp.allianz.de
 sxp.nm0e2.ru
@@ -130984,6 +130999,7 @@ tccefl.fabletics.se
 tcdata.fnac.com
 tcdkjy.top
 tcdnalorihvzt.online
+tcdtznnvvvbdq.site
 tcdvvv.top
 tcfuzwrctqofr.online
 tch.nez9002.com
@@ -139613,6 +139629,7 @@ tukutoks-pp.sbs
 tulajdonostol.com
 tulclqxikva.icu
 tulip18.com
+tulipssepntriglot.cyou
 tulsmcvbuzvsk.website
 tumabeni.com
 tumblebit.com
@@ -141084,6 +141101,7 @@ ueefnr.roan.de
 uefalxvvvunye.website
 uefer.c1earpeak.ru
 uefhucspqzoza.space
+uefvecpehqhlv.website
 uefyhv.licila.si
 uegdysgfg.com
 ueglha.top
@@ -171106,6 +171124,7 @@ zbyynuew9g.ru
 zbz-neex.top
 zbz-nex.ink
 zbzbzb.xyz
+zbzfhmycnznbqu.com
 zc.1wd2k.ru
 zc.adswizz.com
 zc.lobd.ru
