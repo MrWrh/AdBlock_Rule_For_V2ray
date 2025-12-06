@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-07 03:44:31
+# Generated on: 2025-12-07 04:18:20
 # Generated AdBlock rules
-# Total entries: 172931
+# Total entries: 172952
 
 0.myikas.com
 0.nybk.ru
@@ -1478,6 +1478,7 @@
 2u8.si9a.ru
 2ueb.cn
 2v.ty9a.ru
+2v6fj6knf4nkyf7l4znx.rest
 2vqgtxw.cn
 2w.plx-5.ru
 2w1.527w.ru
@@ -12272,6 +12273,7 @@ allgame99.net
 allgoodwasters.shop
 alliancefurs.com
 allianzet.com
+allicesoggier.com
 alliedrebelcreative.com
 alligator.bluehorn.digital
 alligator.crousille.ch
@@ -24625,6 +24627,7 @@ botsvisit.com
 bottledchagrinfry.com
 bottleddictionary.com
 bottledfriendship.com
+bottlerezones.rest
 bottleselement.com
 bottlestrivingtarget.com
 botvwyytbwpdb.site
@@ -25944,6 +25947,7 @@ bvaib.naenaes.com
 bvbam.heathstreetapparel.com
 bvbqyq.odalys-vacances.com
 bvbypswhds.com
+bvcklbliykzsp.online
 bvckutpqnrftz.website
 bvcmxvvjdgxnl.online
 bvcnmtv.top
@@ -34151,6 +34155,7 @@ ctxirjhxpyjtm.space
 ctxkfl.cndgz.link
 ctxrpolj.net
 ctxtfl.com
+ctyaodjceuvdu.space
 ctyjsf.cellphones.com.vn
 ctyojp.kibek.de
 ctyzd.com
@@ -45884,6 +45889,7 @@ ejitmssx-rk.icu
 ejjyr.cdvnmt03.com
 ejkgosxbzb.com
 ejlqdcyrjsakh.site
+ejmqizwsprd.com
 ejmshxkjsfrhi.space
 ejnqilgwjzqys.online
 ejnrfzsbvwqwj.online
@@ -54192,6 +54198,7 @@ gd5do.b2rvshap0v.ru
 gdajuytgupptx.world
 gdbare.com
 gdbei.oakessentials.com
+gdbkplzeggkrg.online
 gdbur.com
 gdbwnirqfyhwk.website
 gdc.li
@@ -64803,6 +64810,7 @@ ihpqzrkobyejs.website
 ihsgawkish.qpon
 ihtfj.cozycartcats.com
 ihtqqws.cn
+ihu3kx5xujb1m6rj.cfd
 ihuzryhojljka.site
 ihvnk.irisandromeo.com
 ihwdun.xyz
@@ -85140,6 +85148,7 @@ milkway.lintlink.com
 milky-silver.pro
 milkygoodness.xyz
 milkywaynewspaper.com
+milkywonder.pro
 milladvocacyunderstandable.com
 millennialmedia.com
 millermiss.com
@@ -88048,6 +88057,7 @@ mxwnaqo.cn
 mxxqru.alinda.sk
 mxyaawbtgxomq.online
 mxykahncnax.com
+mxyorsnin.com
 mxzijg.com
 mxzvgxtcjlrmg.online
 mxzxdugzqayax.site
@@ -91055,6 +91065,7 @@ nooaiigptpszk.store
 noodshare.pics
 noohapou.com
 noohifauptesu.net
+noojoonozuzu.com
 noolt.com
 noopoacogoa.net
 noosediscloseposter.com
@@ -103442,6 +103453,7 @@ qoqv.com
 qoqzf.astridandmiyu.com
 qorcqh.job.mynavi.jp
 qortex.ai
+qotlepucvij.com
 qotms.aestheticmanagementpartners.com
 qotnke.natureone.co.kr
 qotqa.simbasleep.com
@@ -103567,6 +103579,7 @@ qqqmakecfnvuh.site
 qqqtgzdrsjyqj.site
 qqqwww987.site
 qqqwww987.space
+qqrffjtbomap.com
 qqsfafvkgsyto.online
 qqskjmyhfyosr.website
 qqsondgjeyzyx.website
@@ -104168,6 +104181,7 @@ qvtsz.jeromealexander.com
 qvujlogasdcdg.site
 qvvep.minimlrefills.co.uk
 qvvgzxskwkeqp.space
+qvvimhkleha.com
 qvvurjgilhgbd.space
 qvwick.mister-auto.de
 qvxrbcmwwtdudcm.net
@@ -121275,6 +121289,7 @@ sprunglurk.com
 sprungstorm.com
 spry-cat.com
 spry-trick.com
+spryindividual.pro
 spryn.seven5pr2y.ru
 sprysummit.com
 spscah.hitachi-solutions.co.jp
@@ -143409,6 +143424,7 @@ utklhk.kojima.net
 utkoh.nuudcare.us
 utl-1.com
 utlbs.stoffwechsel-gesund.de
+utlkjjdnjcbqx.website
 utm-campaign.com
 utm.sankei.jp.msn.com
 utmjpssfyondk.online
@@ -147102,6 +147118,7 @@ vrske.frenchbroadchocolates.com
 vrskf.clockcanvas.com
 vrslcvpctrwju.space
 vrsri.widefitshoes.co.uk
+vrssptskkihvn.site
 vrstage.com
 vrstnadgljwiy.space
 vrtzads.com
@@ -147378,6 +147395,7 @@ vv.nettierbrakier.com
 vv1.pyhfxdm.cn
 vv4t0gqaa4.com
 vv8h9vyjgnst.com
+vvabjoqrbmmvw.top
 vvavemweejphd.website
 vvbox.cz
 vvbxyvqcwsl.net
@@ -148426,6 +148444,7 @@ wavzlt.michaelstars.com
 waw.hsecan.com
 waw.hsecui.com
 wawaidlers.qpon
+wawdycfvprblg.space
 waxapushlite.com
 waxierowldom.help
 waxlteab.com
@@ -150590,6 +150609,7 @@ wkck4.b1tcrush.ru
 wkclick.baidu.com
 wkctj.baidu.com
 wkdjprbtixvnx.website
+wkdquomvnpnmq.website
 wkerjleoderlg.online
 wkfjbrmbkdiqa.online
 wkfvk.amazon1868.com
@@ -166783,6 +166803,7 @@ xdhjbmysilynq.site
 xdiccukqbviiz.online
 xdifjhbyqxdbg.website
 xdijwcvqvqebj.site
+xdiqvmzybbgbm.website
 xdirectx.com
 xdisplay.site
 xdiwbc.com
