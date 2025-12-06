@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 21:38:22
+# Generated on: 2025-12-06 22:14:57
 # Generated AdBlock rules
-# Total entries: 172866
+# Total entries: 172888
 
 0.myikas.com
 0.nybk.ru
@@ -6388,6 +6388,7 @@ aaddcount.com
 aaddzz.com
 aadeda.niche-beauty.com
 aadgc.greybandit.com
+aadiiecdmtbfpux.com
 aaedgdwcrxtkw.site
 aaeeonmart.com
 aaenv48847h.com
@@ -12772,6 +12773,7 @@ amplitude.chess.com
 amplitude.life360.com
 ampltd.top.gg
 ampltd2.medal.tv
+amplybocces.cfd
 amptrack-dailymail-co-uk.cdn.ampproject.org
 ampxchange.com
 ampythonanywhere.pythonanywhere.com
@@ -19170,6 +19172,7 @@ atholicncesispe.com
 atholicncesispe.info
 athtku.lerros.com
 athyimemediat.com
+athyimemediat.org
 athyimemediates.org
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 ati.sazka.cz
@@ -19514,6 +19517,7 @@ aurelia-il.com
 auric8.br1ghtvaie.ru
 auriclelureful.click
 auristquipu.help
+auristscreeky.click
 aurora-cryptoglobal.com
 aurora-d3.herokuapp.com
 aurora.bbins.top
@@ -31026,6 +31030,7 @@ co5457chu.com
 co932.coloradopolitics.com
 coabodeboomers.qpon
 coach.028csc.com
+coachescucuy.click
 coachfundco.com
 coachglutch.qpon
 coagedague.click
@@ -31802,6 +31807,7 @@ commissionlounge.com
 commissionmonster.com
 commit0.gethe-4-e.ru
 commitmentelizabeth.com
+common-professional.pro
 common.duapps.com
 commonalmanac.com
 commondata.oss-cn-hangzhou.aliyuncs.com
@@ -49747,6 +49753,7 @@ fchange169.xyz
 fchange187.xyz
 fcheng.top
 fchgd.arula.com
+fchigztmprrkp.website
 fchst.thyroidhealthhub.org
 fcifaypfepfvy.space
 fcilbhbadlxjf.online
@@ -55601,6 +55608,7 @@ glulaupookr.net
 glum-mortgage.com
 glumrevenue.com
 glushak.live
+glusixolkxmriwo.com
 glut.cobaltweald.ru
 glut.eiderquelle.ru
 glut.emberbucht.ru
@@ -63526,6 +63534,7 @@ huskinessimminentstylus.com
 husky-building.pro
 huskyblue.pro
 huskypartydance.com
+huskyshoe.pro
 hussklycigswm.space
 hustlercoach.com
 hustmilch.cfd
@@ -64900,6 +64909,7 @@ ikcor.orukayak.com
 ikea.bilsq.com
 ikea.minermining.cc
 ikearetail.com
+ikeedsauxou.com
 ikeizcfipfius.site
 ikengroup.com
 ikibg.sleefs.com
@@ -72819,6 +72829,7 @@ kvcddxmzgvmrk.online
 kvcytjbllaeao.site
 kvdnetmzqvwxw.store
 kvdqzsytlcxuf.space
+kvdvmrzenzcwf.website
 kvehdafk.qian.drpj.tw
 kvfiutytcelqx.site
 kvfvd.alicelanehome.com
@@ -82918,6 +82929,7 @@ mctu.coingcx.com
 mctudfe.wrlfuntitnaipi.top
 mctyoxdbcjart.space
 mcug-coin.cc
+mcvkgoujreugd.online
 mcvpuclrnqgxx.online
 mcvqdhkiehvtms.xyz
 mcxmke.com
@@ -91311,6 +91323,7 @@ nqdgrzcyyeiul.online
 nqdpqbfihaids.store
 nqdufv.xyz
 nqdxwmnpjpoiw.site
+nqeebyblbfzgj.site
 nqelooikvxcqw.space
 nqfem.babor.com
 nqfwzphqxjbqo.store
@@ -92751,6 +92764,7 @@ offer.sjo.omniture.com
 offer.slgnt.eu
 offer.timenterprise.it
 offer.vyapay.com
+offerdanced.com
 offerforge.com
 offerforge.net
 offergate-ecommerce-cdn5.com
@@ -95806,6 +95820,7 @@ pabelne.com
 pabgey.siepomaga.pl
 pabidding.io
 pabjriyhlvedc.vip
+pablouppent.qpon
 pac.the-sun.com
 pac.thesun.co.uk
 pac.thetimes.co.uk
@@ -102785,6 +102800,7 @@ qetdpbkeadmvv.website
 qetvevimhdxfh.online
 qeujmo.wap.xsbiquge.com
 qevseeymcpxby.click
+qevtpxxejuemh.website
 qewwklewkaaw.top
 qexbcx.olx.kz
 qexcxmldbplyl.website
@@ -102845,6 +102861,7 @@ qgbdpqpkowqik.website
 qgbgddskkmgto.online
 qgbnjd.coches.net
 qgc5769.com
+qgcdlmntrgooa.space
 qgdgcbtfuxgra.store
 qgdgj.bugmd.com
 qgerr.com
@@ -106528,6 +106545,7 @@ rest.sexypornvideo.net
 rest.wildstar-online.com
 restaffect.com
 restaiper.com
+restampharrows.cfd
 restartad.com
 restedconnectionsympathetic.com
 resteddiabetepocket.com
@@ -115438,6 +115456,7 @@ silkworm.boxmood.be
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
+silky-advice.pro
 silkykutta.cfd
 silkyspite.com
 sillinessrobnotoriety.com
@@ -121394,6 +121413,7 @@ sr5b.28ae00i7.ru
 sr7.va4n.ru
 srasomqmogkfpc.net
 sravakaeastre.cfd
+srbgalkyxmohn.online
 srbnxr.blair.com
 srbzw.cn
 src.apotheke365.de
@@ -130333,6 +130353,7 @@ tap.cpak0.ru
 tap0ut.fastp1ay.ru
 tap6.bestffriend.digital
 tapad.com
+tapasidlinslicking.cfd
 tapchibitcoin.care
 tapdaq-adverts.global.ssl.fastly.net
 tapdb.com
@@ -144078,6 +144099,7 @@ vacationsanitaryskip.com
 vachoumpuh.net
 vacruwsug.com
 vacuabibs.life
+vacuumpalsy.cfd
 vacwrite.com
 vadideo.com
 vads.net.vn
