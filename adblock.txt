@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-06 19:44:48
+# Generated on: 2025-12-06 20:32:52
 # Generated AdBlock rules
-# Total entries: 172834
+# Total entries: 172863
 
 0.myikas.com
 0.nybk.ru
@@ -2192,6 +2192,7 @@
 4o.p0larday.ru
 4o2.fa3y.ru
 4o2.sd4o7.ru
+4o4kcy9eqoteyzwco.cfd
 4ol.ndoq0.ru
 4oney.com
 4p04u96158.com
@@ -6481,6 +6482,7 @@ aatkit.com
 aaubh.trycloud9.com
 aaucna.casasbahia.com.br
 aauedwmoofyox.buzz
+aauojvexuvpcm.store
 aaurukdxfwcdt.website
 aava5defi.xyz
 aavadefipro.com
@@ -10364,6 +10366,7 @@ aegerjapygid.rest
 aegis.qq.com
 aegloballink.com
 aegmbupscesey.space
+aegmovjmepcqs.store
 aegzoils.com
 aehqk.tushbaby.com
 aehudh.rakumachi.jp
@@ -11442,6 +11445,7 @@ aidsgeodist.com
 aidsro.ostin.com
 aidsswaggertrimness.com
 aidsvc.netflix.com
+aiewtuaivdcjd.store
 aifcoz.dryve.com.br
 aifeex.com
 aifeier888.xyz
@@ -11810,6 +11814,7 @@ akbksaude.dgt.srv.br
 akbojcuteldzb.online
 akcjasamsung.e-kei.pl
 akcnkancklankl.com
+akcvbclhkjebu.store
 akcze.dysoncanada.ca
 akdbr.com
 akdie.xyz
@@ -34693,6 +34698,7 @@ cyf9.destinia.cl
 cyfiaeojxyrsu.space
 cyg-byzlgtns.world
 cygnus.com
+cygosamf.com
 cyh.cybra.xyz
 cyhanjealyojs.space
 cyhbrjf.cn
@@ -39782,6 +39788,7 @@ dblvzpmfobgks.site
 dbmgc.marleylilly.com
 dbmgikwoijnhu.online
 dbmkkfqpgcijj.space
+dbmxpelowoek.com
 dbnsd2viud.xyz
 dbnwlp.xyz
 dboxofdfevvlb.website
@@ -43080,6 +43087,7 @@ downright-soup.com
 downrightshepherdmodeling.com
 downs.qiaoanjin.com
 downstairsnegotiatebarren.com
+downstairspoppy.com
 downwardsuperioraching.com
 dowonline.ru
 dowryhandgripballot.com
@@ -44010,6 +44018,7 @@ dwcvhyxusxeun.online
 dwd11wtouhmea.cloudfront.net
 dwealqru.com
 dwebwj8qthne8.cloudfront.net
+dwecsyflygbei.site
 dweixin.cn
 dwelledbanksia.click
 dwelllestcatch.com
@@ -45148,6 +45157,7 @@ economicadvantage.midamerican.com
 economysoil.com
 econrus.ru
 econventa.com
+ecoqosydowmqd.online
 ecoserdiana.com
 ecovk.trudiagnostic.com
 ecp.eitacasaperfeita.com.br
@@ -46565,6 +46575,7 @@ enecto.com
 enejmbdsyvwbf.space
 enelslthfenmh.site
 enematalordan.com
+enengumaiheeque.net
 enennsa.gushiwen.cn
 ener1025.xyz
 energetic-interest.com
@@ -54468,6 +54479,7 @@ geoloc.yospace.com
 geolocation.outreach.com
 geologycontentillegally.com
 geologylineal.com
+geometryafflictionshrub.com
 geometrydoomeddrone.com
 geometryperformance.com
 geonicpeaked.cfd
@@ -54884,6 +54896,7 @@ ghurboizcruvn.online
 ghwkuv.lagirl.co.kr
 ghwmbue.icu
 ghycke.com
+ghyiiottrrjmeui.com
 ghyuvxkcrkpiu.com
 ghyvgxemrszmx.site
 ghyzimfjilvbt.online
@@ -64109,6 +64122,7 @@ ibfkf.katalyst.com
 ibghs.saatchiart.com
 ibgoscvztzuix.space
 ibgyfspqfazkw.website
+ibhkaldxywkvxsw.com
 ibhmzqpfylkaj.space
 ibidemkorari.com
 ibikini.cyou
@@ -68100,6 +68114,7 @@ iwtivbukvlvdk.site
 iwtserve.com
 iwuwkslisixyq.xyz
 iwuzyhpiwptij.website
+iwvfowzlotzhb.store
 iwvxwcsvpfbmc.store
 iwwqqy.motorsweden.se
 iwwugzbfzslaq.website
@@ -68763,6 +68778,7 @@ jejlaueaxfsjt.website
 jejunalduets.cyou
 jekvc.losethebackpain.com
 jekzyyowqvevz.top
+jekzyyyljvall.top
 jelcp.igloocoolers.com
 jellabtravest.help
 jellyfinstream.com
@@ -83638,6 +83654,7 @@ merelysterin.help
 meremark.com
 mereni.o2universum.cz
 merequartz.com
+meresgrxyvpdj.space
 mergedlava.com
 mergerhennin.help
 mergersbogbean.rest
@@ -99340,6 +99357,7 @@ pmmxeavnflhkl.website
 pmnbh.dedcool.com
 pmncx.app
 pmngv.veronicabeard.com
+pmnlcpdlljaie.website
 pmnwqx.zawojski.pl
 pmnyzf.icu
 pmnzfu.goodeestore.com
@@ -100419,6 +100437,7 @@ prettytask-my.com
 prettytube.net
 prettytwshop-my.com
 prevailharewandering.com
+prevalentalludedtore.com
 prevalentclogoversight.com
 prevalenthatchet.com
 preventreversion.com
@@ -100737,6 +100756,7 @@ profanstee.com
 profession.wadgzh.com
 profession.wegeuk.com
 professionalflatly.com
+professionalpalecloth.com
 professionaltrafficmonitor.com
 profile-api.amplitude.com
 profile-id.co
@@ -102105,6 +102125,7 @@ py.mzvo-7.ru
 py.ru6q.ru
 py.wqix5.ru
 py7qbuyqxi69yruh.cfd
+pyainqxuvtcsb.space
 pyaivqkqgnfem.online
 pyaretrip.shop
 pyaslvsbmasjm.website
@@ -105990,6 +106011,7 @@ rehvbghwe.cc
 reichelcormier.bid
 reifenquick.de
 reifepikeia.cyou
+reignerpartenebrodi.cfd
 reimageplus.com
 reindaks.com
 reindeer.cablemod.com
@@ -107978,6 +108000,7 @@ rr60.gintfim168.com
 rr69.gintfim168.com
 rragk.naturemedicine.blog
 rranyl.muchachomalo.com
+rrbfxjmpegzja.site
 rrbzvmklrzaqw.top
 rrbzvmklrzoqy.top
 rrbzvmklrzroj.top
@@ -110375,6 +110398,7 @@ sailorjav128.fun
 saimigojonounor.net
 saimplemukente.org
 saintcapacityyolk.com
+saintjealous.com
 saipsoan.net
 saishook.com
 saitef.cn
@@ -110780,6 +110804,7 @@ sanalytics.wideroe.no
 sanalytics.yorkstatebank.com
 sanalytics.yourbankcard.com
 sanalytics.zuerinet.ch
+sanatbxitaf.com
 sancdn.net
 sancmi.bookspot.nl
 sancontr.com
@@ -114428,6 +114453,7 @@ shipbob.live
 shipbob.pro
 shipbob.vip
 shiphootaich.net
+shipmentconnectionsherbal.com
 shipmenthow.com
 shipminttracking.net
 shipping2.xo.je
@@ -119635,6 +119661,7 @@ smvip.zapto.org
 smvotx.sweatband.com
 smvuueqonsbuz.site
 smvuvscjqofbm.website
+smxpdgbfvoexq.site
 smykirfgsmfpl.space
 smzbvh.online
 smzdamshop.com
@@ -127650,6 +127677,7 @@ supmoon.com
 supplementary2.fun
 supplerbeaufin.cyou
 suppliersbhx.com
+suppliesabolish.com
 suppliesfloored.com
 supply.bi.serviceplan.com
 supply.hornylust.com
@@ -170630,6 +170658,7 @@ yzqituewobhot.website
 yzqwy2mynmu.121mai0014.com
 yzraenppksaq.com
 yzrgtocyuvzxc.online
+yzru8lzitbpvl9l94fbnrffyugmmuqm.rest
 yzsgwklwqzemn.online
 yzsinffpguits.space
 yzsnrn.n-shine.com
