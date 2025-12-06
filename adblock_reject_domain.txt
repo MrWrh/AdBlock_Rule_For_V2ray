@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-06 16:32:25 (GMT+8)
-# Total entries: 173047
+# Generated on: 2025-12-06 16:53:29 (GMT+8)
+# Total entries: 173048
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -3216,6 +3216,7 @@
 "7c52629d53.com",
 "7c5734761f.com",
 "7c7.1z57.ru",
+"7c96k2gysn.com",
 "7ca04e04d0.fc97aea706.com",
 "7ca78m3csgbrid7ge.com",
 "7caidai.xyz",
